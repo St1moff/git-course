@@ -1,3 +1,3 @@
 # Git and Git Hub Course
 
-Crash course for git
+It's my first git repository WOW
